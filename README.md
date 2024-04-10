@@ -3,14 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gsolana81)](https://github.com/gsolana81)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsolana/)](https://www.linkedin.com/in/gabrielsolana/)
 
-- 🔭 I’m currently working on [CELEPAR](http://www.celepar.pr.gov.br/)
-- 🌱 I work with NLP - Natural Language Processing
-- 👁️‍🗨️ I’m also learning computer vision
-- 👯 I’m looking to collaborate on machine learning resources that support the Portuguese language
-- 👩‍💻 I’m part of the research groups [HAILab](https://github.com/HAILab-PUCPR) and [DCAM](https://www.ppgia.pucpr.br/pt/?q=node/108)
-- :woman: I am a [Brazilian girl in NLP !](https://brasileiraspln.com/)
-- 💙 I focus on healthcare research, as in the clinical and biomedical domains
-
 ### Sobre Mim
 Eu sou um desenvolvedor backend e frontend em Java, Python, vue-js & Node.
 Possuo sólidos conhecimentos em integração de sistemas, webservices, soap e restful, ejb e data services.
