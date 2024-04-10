@@ -22,15 +22,3 @@ Possuo sólidos conhecimentos em integração de sistemas, webservices, soap e r
   
   
 </div><br/>
-
-Apaixonado por tecnologia, inteligência artificial, programação, games, filmes e séries.
-
-<div>
-  <a href="https://github.com/gsolana81">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsolana81&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsolana81&layout=compact&langs_count=7&theme=dark"/>
- <br />
-  <b>🏆 Github Conquistas</b>
- <br />   
-<p align="center"> <a href="https://github.com/gsolana81"><img src="https://github-profile-trophy.vercel.app/?username=gsolana81&margin-w=5&theme=radical" alt="gsolana81" /></a>
-</div>
