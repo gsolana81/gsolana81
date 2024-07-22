@@ -1,11 +1,19 @@
-## Olá! Eu sou o Gabriel Solana 🖐️
+## Olá Mundo! 🤓  Eu sou o Gabriel Solana 🖐️
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gsolana81)](https://github.com/gsolana81)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsolana/)](https://www.linkedin.com/in/gabrielsolana/)
 
 ### Sobre Mim
-Eu sou um desenvolvedor backend e frontend em Java, Python, vue-js & Node.
-Possuo sólidos conhecimentos em integração de sistemas, webservices, soap e restful, ejb e data services.
+Sou apaixonado por criar soluções inovadoras e resolver problemas complexos usando a magia do Java ✨. 
+
+Neste repositório, você encontrará alguns dos meus projetos mais relevantes, que demonstram minhas habilidades em diferentes áreas do desenvolvimento Java.
+
+Mas antes de mergulharmos no código, vamos dar uma olhada em algumas das tecnologias que dominam meu dia a dia:
+
+   - Spring Boot: o rei dos frameworks Java, perfeito para criar aplicações robustas e escaláveis 💪.  
+   - Hibernate: o guardião dos seus dados, mapeando objetos para o banco de dados com maestria 🔐. 
+   - RESTful APIs: a ponte entre sua aplicação e o mundo, com comunicação fluida e organizada .
+   - Bancos de dados relacionais e NoSQL: armazenando seus dados com segurança e eficiência .
 
 
 ## Tecnologias que eu uso no meu dia
